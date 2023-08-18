@@ -1,0 +1,5 @@
+//Intishar Usman
+
+LOOPING
+Q1. Create a ‘while’ loop that prints even numbers from 2 to 100.
+Q2. Calculate the sum of all odd numbers between 1 and 50.

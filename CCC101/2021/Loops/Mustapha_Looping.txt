@@ -1,0 +1,16 @@
+LOOPING
+
+1. 
+Q. How do you use a "for" loop to iterate over a range of numbers from 0 to 3 and print each number?
+
+A. for num in range(4):
+print(num)
+
+
+2. 
+Q. How do you write a "for" loop to iterate over a list of numbers and print each number?
+
+A. numbers = [1, 2, 3, 4, 5]
+for num in numbers:
+print(num)
+

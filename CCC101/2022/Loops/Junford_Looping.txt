@@ -1,0 +1,17 @@
+
+Loopings:
+1. Create a do-while loop C++ program to repeatedly ask the user to enter a number until they enter 0. Display each entered number on the screen.
+
+Answer: 
+do {
+        cout << "Enter a number (enter 0 to exit): ";
+        cin >> number;
+        cout << "You entered: " << number << endl;
+    } while (number != 0);
+
+2. Write a for loop C++ program to display the numbers from 0 to 9 on the screen.
+
+Answer: 
+for (int i = 0; i <= 9; i++) {
+        cout << i << " ";
+    }

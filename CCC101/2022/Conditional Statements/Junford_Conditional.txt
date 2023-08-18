@@ -1,0 +1,18 @@
+Conditional statements:
+1. Write a C++ program that takes an integer (age) as input and checks if the person is eligible to vote. If the age is 18 or above, print "You are eligible to vote." Otherwise, print "You are not eligible to vote."
+
+Answer:
+if (age >= 18) {
+        cout << "You are eligible to vote." << endl;
+    } else {
+        cout << "You are not eligible to vote." << endl;
+    }
+
+2. Create a C++ program that takes a character (grade) as input and checks if the grade is 'A'. If it's 'A', print "Excellent!" Otherwise, print "Keep up the good work!"
+
+Answer:
+if (grade == 'A') {
+        cout << "Excellent!" << endl;
+    } else {
+        cout << "Keep up the good work!" << endl;
+    }

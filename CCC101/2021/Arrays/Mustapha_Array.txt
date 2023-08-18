@@ -1,0 +1,11 @@
+ARRAY
+
+1. 
+Q. How do you create an empty list in Python?
+
+A. empty_list = []
+
+2.
+Q. How do you add an element "apple" to the end of a list named "fruits"?
+
+A. fruits.append("apple")

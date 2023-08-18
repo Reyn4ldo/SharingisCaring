@@ -1,0 +1,12 @@
+
+Loopings
+
+1. Imagine you're developing a countdown application. 
+You want to display a countdown from 10 to 1 on the screen, 
+with each number being shown for a second before moving to the next. 
+How would you utilize a loop and incorporate a time delay to achieve this countdown effect 
+in your chosen programming language?
+
+2. You're creating a program to generate a simple multiplication table for a given number. 
+You want the program to display the multiplication table from 1 to 10 for the chosen number. 
+How would you use a loop to ach

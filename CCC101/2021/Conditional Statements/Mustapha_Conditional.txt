@@ -1,0 +1,19 @@
+CONDITIONAL
+
+1. 
+Q. How do you write an "if" statement with a condition 
+that checks if a variable x is greater than 10?
+
+A.if x > 10:
+
+2. 
+Q. Write an "if-else" statement to check if a variable temperature 
+is less than 25 degrees Celsius. If it is, print "It's cold outside," 
+otherwise print "It's not cold."
+
+A. temperature = 20
+
+if temperature < 25:
+    print("It's cold outside")
+else:
+    print("It's not cold")

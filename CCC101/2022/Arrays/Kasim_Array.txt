@@ -1,0 +1,45 @@
+
+___________________________________________________________________________________
+Take inputs from user at least 5 and store them in an array
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int numbers[5];
+
+  cout << "Enter 5 numbers: " << endl;
+
+  for (int i = 0; i < 5; ++i) {
+    cin >> numbers[i];
+  }
+
+  cout << "The numbers are: ";
+
+  for (int n = 0; n < 5; ++n) {
+    cout << numbers[n] << "  ";
+  }
+
+  return 0;
+}
+
+
+______________________________________________________________________________________________
+
+Display Array elements
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int numbers[5] = {7, 5, 6, 12, 35};
+  
+  cout << "\nThe numbers are: ";
+ 
+  for (int i = 0; i < 5; ++i)  {
+    cout << numbers[i] << " ";
+  }
+  return 0;
+  }

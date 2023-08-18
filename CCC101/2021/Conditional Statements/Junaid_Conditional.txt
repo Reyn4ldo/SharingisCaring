@@ -1,0 +1,7 @@
+Conditional
+1. Create a program that will determine if a student's score on an exam is
+pass or fail. If the score is greater than equal to 70 then print "PASSED",
+else print"FAILED".
+
+2. Create a program that will determine if the input user is a positive
+integer or negative integer.

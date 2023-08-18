@@ -1,0 +1,8 @@
+Question 3: 
+
+Write a program, from a language of your choice, that uses a for loop to print all even numbers between 1 and 50 (inclusive).
+
+Question 4:
+
+Explain the concept of an infinite loop and provide an example. How can you break out of an infinite loop?
+

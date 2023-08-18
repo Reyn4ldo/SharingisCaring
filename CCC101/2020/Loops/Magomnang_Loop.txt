@@ -1,0 +1,41 @@
+Conditional Statements:
+Q: If the variable age is 7, how would you write an "if" statement to check if age is greater than 5?
+
+A: 
+age = 7
+if age > 5:
+    print("Age is greater than 5")
+
+Q: Write an "if-else" statement to check if a variable score is less than 50. If it is, print "Fail," otherwise print "Pass."
+
+A:
+score = 42
+if score < 50:
+    print("Fail")
+else:
+    print("Pass")
+
+Arrays:
+Q: How do you create a list containing the numbers 1, 2, and 3?
+
+A:
+numbers = [1, 2, 3]
+Q: Add the string "banana" to the end of a list called fruits.
+
+A:
+fruits = ["apple", "orange"]
+fruits.append("banana")
+
+Looping:
+Q: Using a "for" loop, how would you print the numbers from 1 to 5?
+
+A:
+for num in range(1, 6):
+    print(num)
+
+Q: Create a list of colors: "red," "green," and "blue." Use a "for" loop to print each color.
+
+A:
+colors = ["red", "green", "blue"]
+for color in colors:
+    print(color)

@@ -1,0 +1,2 @@
+Array
+5. Create an array that consists of colors.

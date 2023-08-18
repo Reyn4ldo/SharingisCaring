@@ -1,0 +1,5 @@
+Sample Exam: Introduction to Computer Programming
+
+Question 5:
+
+Implement a function that takes an array of integers as input and returns the average of the elements.

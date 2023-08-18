@@ -1,0 +1,15 @@
+
+Array
+
+1. Imagine you're building a basic to-do list application. 
+You want to store tasks in an array. Users can add tasks to the list, mark tasks as done, 
+and view their current tasks. 
+How would you design the array and the corresponding functions to add tasks, mark tasks as done, and 
+display the tasks using basic array manipulation in your chosen programming language?
+
+
+2. You're developing a program to analyze student grades. 
+You have an array that holds the scores of a student's quizzes (out of 10 points each). 
+You need to calculate and display the average score. How would you iterate through the array and 
+compute the average using a loop in your chosen programming language?
+

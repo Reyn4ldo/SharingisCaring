@@ -1,0 +1,12 @@
+
+
+Arrays:
+Q: How do you create a list containing the numbers 1, 2, and 3?
+
+A:
+numbers = [1, 2, 3]
+Q: Add the string "banana" to the end of a list called fruits.
+
+A:
+fruits = ["apple", "orange"]
+fruits.append("banana")

@@ -1,0 +1,3 @@
+1. Take two integers and print the larger value
+
+2. Take values of lenght and width and print if it is "square" or "rectangle"

@@ -1,0 +1,12 @@
+Conditional Statement
+
+1. Imagine you're writing a simple program to check the age of a user and determine 
+if they are eligible to vote. If the user's age is 18 or above, the program should display 
+"You are eligible to vote." Otherwise, it should display "Sorry, you must be at least 18 years old to vote." 
+How would you structure the if-else statement to achieve this in your chosen programming language?
+
+2. In a coding scenario, you're building a weather application. 
+You want to display different messages based on the temperature conditions. 
+If the temperature is above 75°F, you want to show "It's a warm day!", and if it's below 50°F, 
+you want to display "Don't forget your jacket!" 
+How would you structure a conditional statement to achieve this in your chosen programming language?
